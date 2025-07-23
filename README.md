@@ -4,5 +4,6 @@ This is the **frontend** of the LeetGuide app — lightweight Google Keep-style 
 
 ## 🔗 Live Demo
 [Login](https://utej8553.github.io/GoogleKeepClone_Frontend/login/login.html)
+---
 [Signup](https://utej8553.github.io/GoogleKeepClone_Frontend/signup/signup.html)
 ---
